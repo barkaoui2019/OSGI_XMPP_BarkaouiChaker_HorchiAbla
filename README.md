@@ -1,6 +1,6 @@
 # OSGI_XMPP_BarkaouiChaker_HorchiAbla
 
-
+https://youtu.be/J4TgKnWrHIs
 <h2>Environnement de travail: <h2/>
 <br/>
 
