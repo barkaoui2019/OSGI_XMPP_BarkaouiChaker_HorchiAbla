@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.devicemgt-plugins:org.wso2.carbon.device.mgt.input.adapter.xmpp:4.1.20">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/devicemgt-plugins/org.wso2.carbon.device.mgt.input.adapter.xmpp/4.1.20/org.wso2.carbon.device.mgt.input.adapter.xmpp-4.1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/devicemgt-plugins/org.wso2.carbon.device.mgt.input.adapter.xmpp/4.1.20/org.wso2.carbon.device.mgt.input.adapter.xmpp-4.1.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/devicemgt-plugins/org.wso2.carbon.device.mgt.input.adapter.xmpp/4.1.20/org.wso2.carbon.device.mgt.input.adapter.xmpp-4.1.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

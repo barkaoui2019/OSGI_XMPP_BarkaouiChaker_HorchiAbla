@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventAdapter/EventAdapter.iml" filepath="$PROJECT_DIR$/EventAdapter/EventAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventAdmin/EventAdmin.iml" filepath="$PROJECT_DIR$/EventAdmin/EventAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osgi-bundle/osgi-bundle.iml" filepath="$PROJECT_DIR$/osgi-bundle/osgi-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/osgidemo.iml" filepath="$PROJECT_DIR$/.idea/osgidemo.iml" />
+    </modules>
+  </component>
+</project>

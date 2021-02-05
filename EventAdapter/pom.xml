@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>osgi-demo</artifactId>
+        <groupId>org.supcom</groupId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>EventAdapter</artifactId>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.framework</artifactId>
+            <version>1.10.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.core -->
+        <dependency>
+            <groupId>org.wso2.carbon.analytics-common</groupId>
+            <artifactId>org.wso2.carbon.event.output.adapter.core</artifactId>
+            <version>5.2.33</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.output.adapter.xmpp -->
+        <dependency>
+            <groupId>org.wso2.carbon.devicemgt-plugins</groupId>
+            <artifactId>org.wso2.carbon.device.mgt.output.adapter.xmpp</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+
+
+        <!-- Thanks for using https://jar-download.com -->
+        <dependency>
+            <groupId>org.wso2.carbon</groupId>
+            <artifactId>org.wso2.carbon.utils</artifactId>
+            <version>4.4.19</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.input.adapter.extension -->
+
+        <!-- https://mvnrepository.com/artifact/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.extension -->
+        <!-- https://mvnrepository.com/artifact/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.input.adapter.extension -->
+        <dependency>
+            <groupId>org.wso2.carbon.devicemgt-plugins</groupId>
+            <artifactId>org.wso2.carbon.device.mgt.input.adapter.extension</artifactId>
+            <version>4.1.18</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.wso2.carbon.devicemgt-plugins</groupId>
+            <artifactId>org.wso2.carbon.device.mgt.input.adapter.xmpp</artifactId>
+            <version>4.1.20</version>
+        </dependency>
+
+    </dependencies>
+
+</project>

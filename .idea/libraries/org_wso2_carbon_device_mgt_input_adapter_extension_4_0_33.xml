@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.wso2.carbon.device.mgt.input.adapter.extension-4.0.33">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/org.wso2.carbon.device.mgt.input.adapter.extension-4.0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

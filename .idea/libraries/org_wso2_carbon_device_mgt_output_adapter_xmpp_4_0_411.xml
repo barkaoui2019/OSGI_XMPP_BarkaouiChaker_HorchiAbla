@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.wso2.carbon.device.mgt.output.adapter.xmpp-4.0.411">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/org.wso2.carbon.device.mgt.output.adapter.xmpp-4.0.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
